@@ -1,0 +1,277 @@
+html{
+	/*box-sizing: border-box;
+	margin-left:15%;
+	margin-right:15%;
+	font-family:helvetica-light;*/
+}
+
+/* Homepage + All pages */
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 230px;
+	font-family: helvetica-light;
+	margin-bottom:0.5%;
+}
+
+.main-container{
+	text-allign:center;
+	font-family:helvetica-light;
+	height:600px;
+	width:400px;
+	border-style: solid;
+	border-colour: lightgray; 
+	border-width: 1px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:hover{
+	color: lightgray;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.container1{
+	height:600px;
+	width:400px;
+	border-style: solid;
+	border-colour: lightgray; 
+	border-width: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: helvetica-light;
+}
+
+/* Historical */
+
+.historical-title{
+	font-size: 25px;
+	text-align: right;
+	margin-right: 10px;
+	font-weight:bold;
+
+}
+
+.historical-text{
+	font-size:12px;
+	margin-right:10px;
+	text-align:right;
+}
+
+.column1{
+	text-align:right;
+	float:right;
+	width:55%;
+}
+
+.column2{
+	text-align:left;
+	margin-top: 170px;
+	margin-left: 10px;
+	margin-bottom:20px;
+	font-size: 40px;
+	clear:both;
+	float:left;
+	width:50%;
+}
+
+.chops-types{
+	text-align:left;
+	font-size: 20px;
+}
+
+.affordances{
+	font-size: 25px;
+	text-align: right;
+	margin-right: 10px;
+	margin-top:180px;
+	font-weight:bold;
+}
+
+.column1afford{
+	text-align:right;
+	float:right;
+	width:110%;
+}
+
+
+/* Constraints */
+
+.column1constraint{
+	width:55%;
+	margin-bottom:55px;
+}
+
+.constraint-text{
+	font-size:12px;
+	margin-right:20px;
+}
+
+.chop{
+	margin-top:100px;
+	font-size:20px;
+	margin-left:3%;
+	width:50%;
+}
+
+
+.constraint-head{
+	font-size:30px;
+	font-weight: bold;
+	margin-bottom: 50%;
+	margin-left: 3%;
+}
+
+
+ul{
+	font-size: 10pt;
+	margin-right: 2%;
+	text-align: right;
+	
+}
+
+.constraint-subs1{
+	font-size: 12pt;
+	margin-left: 2%;
+	text-allign: right;
+	font-weight: bold;
+}
+
+
+.constraint-subs2{
+	font-size: 12pt;
+	margin-left: 2%;
+	text-allign: right;
+	font-weight:bold;
+}
+
+
+/* Affordances */
+
+.afford-chop{
+	margin-top:150px;
+	font-size:20px;
+	margin-right:3%;
+	text-align: right;
+}
+
+.afford-head{
+	font-size:25px;
+	font-weight: bold;
+	margin-bottom: 30%;
+	margin-right: 2%;
+}
+
+span{
+	text-align: left;
+}
+
+.afford-bullets{
+	width:75%;
+	margin-left:5%;
+}
+
+
+/* Chinese */
+
+.chinese-title{
+	margin-top: 20%;
+	font-weight: bold; 
+	text-align: center;
+	font-size: 25pt;
+}
+
+.chopstick-title{
+	text-align: center;
+	font-size: 15pt;
+}
+	
+.chinese-text{
+	position:absolute;
+	bottom:80px;
+	right: 450px;
+	width:20%;
+}
+
+.art-header{
+	margin-left:5%;
+	margin-top: 5%;
+	font-size:25pt;
+}
+
+.project-title{
+	margin-left:5%;
+	font-size:15pt;
+}
+
+.project-text{
+	font-size:10pt;
+	position:absolute;
+	left: 456px;
+	width: 15%;
+	margin-top:3pt;
+}
+
+.next{
+	text-align:right;
+	margin-right:3%;
+	margin-top:2.5%;
+	font-style: italic;
+}
+
+.back{
+	text-align:left;
+	margin-left:3%;
+	margin-top:2.5%;
+	font-style: italic;
+}
+
+.art2-text{
+	text-align:left;
+	margin-left:5%;
+	margin-top: 35%;
+	width: 50%;
+	font-size: 12pt;
+}
+
+.art2-text2{
+	text-align:right;
+	margin-right:5%;
+	margin-top: 8%;
+	width: 50%;
+	font-size: 12pt;
+	float:right;
+}
+
+.project2-head{
+	margin-left:5%;
+	font-size:15pt;
+}
+
+.project2-text{
+	margin-left:5%;
+	margin-bottom:3%;
+	font-size:10pt;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
